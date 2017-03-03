@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@drawable/bac2"
+    android:layout_height="match_parent"
+    tools:context="com.unicornheight.facebookaccountkit.MainActivity">
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_facebooklogin"
+        android:layout_width="wrap_content"
+        android:onClick="onLoginPhone"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="2dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:padding="12dp"
+        android:textColor="@color/accent"
+        android:text="@string/login_with_facebook"/>
+
+
+    <TextView
+        android:layout_alignParentBottom="true"
+        android:text="@string/about_accountkit"
+        android:layout_width="wrap_content"
+        android:layout_margin="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/accent"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
+

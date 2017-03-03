@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#E65100</color>
+    <color name="colorAccent">#2E7D32</color>
+    <color name="colorTitle">#ffffff</color>
+    <color name="primar">#E43F3F</color>
+    <color name="primar_dark">#E12929</color>
+    <color name="primar_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="ripple_red">#ffbf5232</color>
+
+    <color name="material">@color/material_deep_teal_500</color>
+    <color name="ripple">#7B3F00</color>
+
+    <color name="primary_darker">#304f9f</color>
+    <color name="windowBackgroundColor">#333333</color>
+    <color name="primary">#0277bd</color>
+    <color name="primary_dark">#01579b</color>
+    <color name="tab_indicator_color">#FFF</color>
+    <color name="GREY">#959494</color>
+    <color name="ORANGE">#EE4325</color>
+    <color name="BLACK">#000000</color>
+    <color name="light_green">#7ABA34</color>
+    <color name="dark_green">#5B852D</color>
+    <color name="photo_tint">#7f101010</color>
+
+</resources>
